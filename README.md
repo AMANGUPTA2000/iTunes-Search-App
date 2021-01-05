@@ -5,6 +5,13 @@ Song Search App using iTunes API.
 
 Clone the project and run to get started.
 
+## Screenshots
+
+![](snaps/homepage.png)
+![](snaps/page_2.png)
+![](snaps/page_3.png)
+![](snaps/page_4.png)
+
 ## Built With
 
 * [Retrofit](https://github.com/square/retrofit) - Network Calls
